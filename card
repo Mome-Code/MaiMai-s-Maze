@@ -1,0 +1,5 @@
+treasure-hunt-app/
+└── src/
+    └── components/
+        └── ui/
+            └── card.jsx
